@@ -1,0 +1,46 @@
+[
+  {
+    "id": "729dbcca-fe6e-4d0d-8208-4a712d795088",
+    "full_name": "Joe Richerd",
+    "employee_id": "EMP-002",
+    "department": "Warehouse",
+    "status": "active",
+    "photo_filename": "729dbcca-fe6e-4d0d-8208-4a712d795088.jpg"
+  },
+  {
+    "id": "401808a7-af6c-428d-ad43-eab26325a5c2",
+    "full_name": "ahmed",
+    "employee_id": "EMP-001",
+    "department": "Maintenance",
+    "status": "active",
+    "photo_filename": "401808a7-af6c-428d-ad43-eab26325a5c2.png"
+  },
+  {
+    "id": "a5752c41-4c90-4bb9-8ae8-0bbc90f3c5ac",
+    "full_name": "chen",
+    "employee_id": "EMP-007",
+    "department": "warehouse",
+    "status": "active",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "photo_filename": "a5752c41-4c90-4bb9-8ae8-0bbc90f3c5ac.webp"
+  },
+  {
+    "id": "9475b011-3e71-4333-946d-2ba018466927",
+    "full_name": "Salamah",
+    "employee_id": "EMP-009",
+    "department": "warehouse",
+    "status": "active",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "photo_filename": "9475b011-3e71-4333-946d-2ba018466927.jpg"
+  }
+]
